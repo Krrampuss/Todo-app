@@ -9,6 +9,6 @@ Processing API requests using the Fetch API.
 Displaying a loader while waiting for an API response and error messages.
 
 - Technologies used
-React + TypeScript – for typed interface layout.
-Fetch API – for working with API requests.
-CSS/SASS – for styling the app.
+  React + TypeScript – for typed interface layout.
+  Fetch API – for working with API requests.
+  CSS/SASS – for styling the app.
