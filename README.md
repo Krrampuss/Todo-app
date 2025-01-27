@@ -1,9 +1,14 @@
-# React TypeScript Starter Pack
+- [DEMO LINK]()
 
-To use this template click `Use this template`
+Project Description
+This is a React Todo App, built using TypeScript for typing. The app includes the following functionality:
 
-### Available Scripts
+Add, delete, edit tasks.
+Change the status of individual tasks or all at once via a checkbox.
+Processing API requests using the Fetch API.
+Displaying a loader while waiting for an API response and error messages.
 
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+- Technologies used
+React + TypeScript – for typed interface layout.
+Fetch API – for working with API requests.
+CSS/SASS – for styling the app.
