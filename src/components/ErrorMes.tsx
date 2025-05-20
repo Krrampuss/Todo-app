@@ -11,9 +11,6 @@ export const ErrorMes: React.FC<Props> = ({ errorMessage }) => {
           ? 'notification is-danger is-light has-text-weight-normal'
           : 'hidden'
       }
-    >
-      <button data-cy="HideErrorButton" type="button" className="delete" />
-      {errorMessage}
-    </div>
+    ></div>
   );
 };
